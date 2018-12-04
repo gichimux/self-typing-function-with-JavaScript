@@ -1,0 +1,55 @@
+html{
+ background: linear-gradient(to bottom left, #67D7F7, #8657CC);
+ width: 100%;
+ height: 100%;
+}
+/***THE DESKTOP'S SCREEN***/
+#screen{
+border: 2px solid #FFF;
+background-color: #000;
+width: 250px;
+height: 150px;
+margin: auto;
+font-family: monospace;
+color: green;
+text-align: center;
+margin-top: 200px;
+overflow: auto;
+font-size: 18px;
+box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+/***SCREEN BOTTOM BORDER****/
+#part1{
+background-color: #FFF;
+height: 20px;
+width: 254px;
+margin: auto;
+box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.8);
+text-align: center;
+}
+
+/***THE DESKTOP'S STAND***/
+#part2{
+background-color: #FFF;
+height: 20px;
+width: 50px;
+margin: auto;
+box-shadow:0 3px 0px 0px rgba(0, 0, 0, 0.8);
+}
+
+#part3{
+background-color: #FFF;
+height: 10px;
+width: 70px;
+margin: auto;
+box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.8);
+border-radius: 5px;
+}
+p{
+font-family: monospace;
+text-align: center;
+bottom: 30;
+color: #544;
+text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
